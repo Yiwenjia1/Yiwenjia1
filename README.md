@@ -15,10 +15,13 @@
 </p>
 
 - 📫 How to reach me:
-  -Email: [3025767941@qq.com]
+- 
+  Email: [3025767941@qq.com]
+  <br>
 - 🛳  Your ticket ID for this visit：
-  -![](https://komarev.com/ghpvc/?username=Yiwenjia1)
-
+- 
+  ![](https://komarev.com/ghpvc/?username=Yiwenjia1)
+<br>
 
 <!--
 **Yiwenjia1/Yiwenjia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
