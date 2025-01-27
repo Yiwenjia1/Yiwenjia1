@@ -14,6 +14,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiwenjia1&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
+- 📫 How to reach me:
+  - QQ: 3025767941
+- 🛳  Your ticket ID for this visit：
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Yiwenjia1&left_color=green&right_color=red)
+
+
 <!--
 **Yiwenjia1/Yiwenjia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
