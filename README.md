@@ -15,9 +15,9 @@
 </p>
 
 - 📫 How to reach me:
-  - QQ: 3025767941
+  -Email: [3025767941@qq.com]
 - 🛳  Your ticket ID for this visit：
-![](https://komarev.com/ghpvc/?username=Yiwenjia1)
+  -![](https://komarev.com/ghpvc/?username=Yiwenjia1)
 
 
 <!--
