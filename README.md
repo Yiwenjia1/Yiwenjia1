@@ -17,7 +17,7 @@
 - 📫 How to reach me:
   - QQ: 3025767941
 - 🛳  Your ticket ID for this visit：
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Yiwenjia1&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=Yiwenjia1)
 
 
 <!--
